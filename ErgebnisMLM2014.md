@@ -1,5 +1,5 @@
 ##Mehrlagenwertung 2014 Frauen##
-<br>
+
 **Jg 1996 und älter, weiblich**
 
 | Name             | Jg. | 100 m Sc | 100 m Rü | 100 m Br | 100 m Kr | 200 m La | Gesamtzeit | Starts | Platz |
@@ -7,7 +7,7 @@
 | Fierus, Patricia | 96  | 1:35,23  | 1:35,60  | 1:46,30  | 1:24,24  | 3:22,54  | 9:43,91    | 5      | 1.    |
 | Preuß, Saskia    | 91  | 1:23,89  | 1:19,73  | 1:41,98  |          |          | 4:25,60    | 3      | 2.    |
 
-<br>
+
 **Jg 1997 und 1998, weiblich**
 
 | Name               | Jg. | 100 m Sc | 100 m Rü | 100 m Br | 100 m Kr | 200 m La | Gesamtzeit | Starts | Platz |
@@ -16,14 +16,14 @@
 | Ruhland, Lea       | 97  | 1:28,03  | 1:33,56  | 1:38,47  | 1:12,68  | 3:01,23  | 8:53,97    | 5      | 2.    |
 | Linstromberg, Jana | 97  |          |          |          | 1:28,87  | 3:31,60  | 5:00,47    | 5      | 3.    |
 
-<br>
+
 **Jg 1999 und 2000, weiblich**
 
 | Name           | Jg. | 100 m Sc | 100 m Rü | 100 m Br | 100 m Kr | 200 m La | Gesamtzeit | Starts | Platz |
 |:---------------|-----|----------|----------|----------|----------|----------|------------|:------:|:-----:|
 | Pacht, Daniela | 99  | 1:27,90  | 1:25,22  | 1:41,62  | 1:13,83  | 3:06,04  | 8:54,61    | 5      | 1.    |
 
-<br>
+
 **Jg 2001 und 2002, weiblich**
 
 | Name            | Jg. | 100 m Sc | 100 m Rü | 100 m Br | 100 m Kr | 100 m La | Gesamtzeit | Starts | Platz |
@@ -34,7 +34,7 @@
 | Berker, Finja   | 01  | 1:48,86  | 1:45,09  | 1:46,16  | 1:29,54  | 1:36,40  | 8:26,05    | 5      | 4.    |
 | Pink, Sophie    | 02  |          | 1:52,81  | 1:49,19  | 1:44,70  |          | 5:26,70    | 5      | 5.    |
 
-<br>
+
 **Jg 2003 und 2004, weiblich**
 
 | Name            | Jg. | 50 m Sc | 100 m Rü | 100 m Br | 100 m Kr | 100 m La | Gesamtzeit | Starts | Platz |
@@ -47,7 +47,7 @@
 | Ohl, Jana       | 04  |         | 2:10,76  | 2:38,02  | 2:27,70  |          | 7:16,48    |    3   |   6.  |
 
 ##Mehrlagenwertung 2014 Männer##
-<br>
+
 **Jg 1996 und älter, männlich**
 
 | Name          | Jg. | 100 m Sc | 100 m Rü | 100 m Br | 100 m Kr | 200 m La | Gesamtzeit | Starts | Platz |
@@ -57,7 +57,7 @@
 | Doliwa, Jens  | 93  | 1:29,84  | 1:19,62  | 1:21,52  | 1:05,28  | 2:57,29  | 8:13,55    |    5   |   3.  |
 | Bohne, Tobias | 94  |          |          |          | 1:04,99  | 2:54,94  | 3:59,93    |    2   |   4.  |
 
-<br>
+
 **Jg 1997 und 1998, männlich**
 
 | Name             | Jg. | 100 m Sc | 100 m Rü | 100 m Br | 100 m Kr | 200 m La | Gesamtzeit | Starts | Platz |
@@ -68,14 +68,14 @@
 | Eckel, Léon      | 97  | 1:24,42  | 1:21,18  | 1:42,45  | 1:07,89  | 3:05,75  | 8:41,69    |    5   |   4.  |
 | Schirra, Daniel  | 98  | 1:22,73  | 1:19,66  | 1:28,77  |          |          | 4:11,16    |    3   |   5.  |
 
-<br>
+
 **Jg 1999 und 2000, männlich**
 
 | Name           | Jg. | 100 m Sc | 100 m Rü | 100 m Br | 100 m Kr | 200 m La | Gesamtzeit | Starts | Platz |
 |:---------------|-----|----------|----------|----------|----------|----------|------------|:------:|:-----:|
 | Dahmouni, Anas | 00  |          | 2:06,31  | 2:25,75  | 1:45,57  |          | 6:17,63    |    3   |   1.  |
 
-<br>
+
 **Jg 2001 und 2002, männlich**
 
 | Name                | Jg. | 100 m Sc | 100 m Rü | 100 m Br | 100 m Kr | 100 m La | Gesamtzeit | Starts | Platz |
@@ -87,7 +87,7 @@
 | Kahraman, Akif      | 01  |          | 2:31,32  | 2:55,39  | 2:10,97  |          | 7:37,68    |    3   |   5.  |
 | Lammert, Noah       | 01  |          |          |          | 1:20,47  | 01:37,95 | 2:58,42    |    2   |   6.  |
 
-<br>
+
 **Jg 2003 und 2004, männlich**
 
 | Name              | Jg. | 50 m Sc | 100 m Rü | 100 m Br | 100 m Kr | 100 m La | Gesamtzeit | Starts | Platz |
@@ -97,9 +97,10 @@
 | Groß, Fabian      | 04  | 0:58,99 | 1:43,63  | 2:19,19  | 1:41,63  | 01:52,92 | 8:36,36    |    5   |   3.  |
 | Kahraman, Resul   | 04  |         | 2:18,82  | 2:50,58  | 2:22,09  |          | 7:31,49    |    3   |   4.  |
 
+
 ##Mehrlagenwertung 2014 Masters##
 Die besten beiden Punktewertungen kommen in die Gesamtwertung.
-<br>
+
 **AK 25, weiblich**
 
 | Name                 | Jg. | Schmett. | Rücken  |     | Brust   |     | Freistil |     | Lagen   |     | Punkte | Platz |
@@ -107,43 +108,43 @@ Die besten beiden Punktewertungen kommen in die Gesamtwertung.
 | Katharina Mildner    | 88  |          |         |     | 0:44,22 | 322 | 0:34,13  | 346 | 1:35,07 | 236 |   668  |   1.  |
 | Anne-Karin Poerschke | 88  |          | 0:42,17 | 282 | 0:44,27 | 320 | 0:37,04  | 271 | 1:31,27 | 267 |   602  |   2.  |
 
-<br>
+
 **AK 30, weiblich**
 
 | Name              | Jg. | Schmett. |     | Rücken  |     | Brust   |     | Freistil |     | Lagen   |     | Punkte | Platz |
 |:------------------|-----|----------|-----|---------|-----|---------|-----|----------|-----|---------|-----|:------:|:-----:|
 | Heike Mollenhauer | 84  | 0:38,90  | 280 | 0:39,40 | 346 | 0:48,81 | 239 | 0:34,06  | 348 | 1:29,47 | 283 |   694  |   2.  |
 
-<br>
+
 **AK 35, weiblich**
 
 | Name              | Jg. | Schmett. |     | Rücken  |     | Brust   |     | Freistil |     | Lagen   |     | Punkte | Platz |
 |:------------------|-----|----------|-----|---------|-----|---------|-----|----------|-----|---------|-----|:------:|:-----:|
 | Christine Vollmer | 78  | 0:38,51  | 288 | 0:43,67 | 254 | 0:43,30 | 343 | 0:33,07  | 380 | 1:26,13 | 318 |   723  |   1.  |
 
-<br>
+
 **AK 30, männlich**
 
 | Name             | Jg. | Schmett. |     | Rücken  |     | Brust   |     | Freistil |     | Lagen   |     | Punkte | Platz |
 |:-----------------|-----|----------|-----|---------|-----|---------|-----|----------|-----|---------|-----|:------:|:-----:|
 | Benedikt Leister | 84  | 0:39,89  | 190 | 0:36,32 | 305 | 0:41,60 | 278 | 0:30,91  | 326 | 1:27,79 | 197 |   631  |   1.  |
 
-<br>
+
 **AK 45, männlich**
 
 | Name         | Jg. | Schmett. |     | Rücken  |     | Brust |   | Freistil |     | Lagen   |     | Punkte | Platz |
 |:-------------|-----|----------|-----|---------|-----|-------|---|----------|-----|---------|-----|:------:|:-----:|
 | Henning Puck | 67  | 0:32,89  | 340 | 0:35,99 | 314 |       |   | 0:29,23  | 385 | 1:17,73 | 284 |   725  |   1.  |
 
-<br>
+
 **AK 60, männlich**
 
 | Name            | Jg. | Schmett. |   | Rücken |   | Brust   |     | Freistil |     | Lagen |   | Punkte | Platz |
 |:----------------|-----|----------|---|--------|---|---------|-----|----------|-----|-------|---|:------:|:-----:|
 | Jürgen Kräntzer | 53  |          |   |        |   | 0:46,35 | 201 | 0:38,70  | 166 |       |   |   367  |   1.  |
 
-<br>
-**Mehrlagenwertung offene Klasse**
+
+##Mehrlagenwertung offene Klasse##
 
 | Platz | Name                | Jg. | Punkte |   | Platz | Name               | Jg. | Punkte |
 |-------|---------------------|-----|--------|---|-------|--------------------|-----|--------|
